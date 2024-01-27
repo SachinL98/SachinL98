@@ -34,7 +34,7 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SachinL98&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SachinL98&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SachinL98)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 
 ## 🛠️ Projects
