@@ -46,7 +46,7 @@
 ## 📫 Connect with Me
 
 - **Social Media:**
-  - [LinkedIn](https://www.linkedin.com/in/sachin-lakshan-988644255) ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)
+  - [LinkedIn](https://www.linkedin.com/in/sachinl98) ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)
   - [WhatsApp](https://wa.me/qr/VSXOD4YWSL7AG1)
 
 
