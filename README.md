@@ -30,7 +30,14 @@
 
 [![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SachinL98&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SachinL98)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SachinL98&show_icons=true&hide=contribs,prs&count_private=true&include_all_commits=true)
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SachinL98&show_icons=true&hide=contribs,prs&theme=radical)
+
+
 
 
 ## 🛠️ Projects
