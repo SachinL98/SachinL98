@@ -47,9 +47,6 @@
 
 - **Social Media:**
   - [LinkedIn](https://www.linkedin.com/in/sachin-lakshan-988644255) ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)
-  - [Twitter]([https://twitter.com/your-twitter-handle](https://twitter.com/Sachin922139395)) ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)
-  - [Facebook]([https://www.facebook.com/your-facebook-profile](https://www.facebook.com/profile.php?id=100083049654064&mibextid=9R9pXO))
-  - [Instagram]([https://www.instagram.com/your-instagram-handle](https://www.instagram.com/sachi.98?igsh=Z3VzN3Z2NGhubzdm))
   - [WhatsApp](https://wa.me/qr/VSXOD4YWSL7AG1)
 
 
